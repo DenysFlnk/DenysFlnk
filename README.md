@@ -8,10 +8,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/denys-filonenko-6a8632163/">
-  <img height="50" src="https://github.com/DenysFlnk/DenysFlnk/assets/121613823/ed7ea4dc-f5a7-4eba-8dd2-2a017ec4a3ae"
-/>
-</a>
-  </p>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"/>
+</p>
   
 ---
 

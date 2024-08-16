@@ -21,8 +21,7 @@ located_in: Kyiv, Ukraine
 education:
   [
     "Self-Taught Java Developer",
-    "Master's in Geodesy",
-    "Bachelor's in Geodesy",
+    "Master's in Geodesy"
   ]
 
 fields_of_interests:

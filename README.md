@@ -31,7 +31,7 @@ fields_of_interests:
     "Backend Development"
   ]
   
-hobbies: ["Gaming", "Self-education",  "Comedy"]
+hobbies: ["Gaming", "Self-education", "Comedy"]
 ```
-  
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysFlnk"/></p>
 ---  

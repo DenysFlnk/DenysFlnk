@@ -27,7 +27,6 @@ education:
 fields_of_interests:
   [
     "Web Development",
-    "Microservices",
     "Backend Development"
   ]
   

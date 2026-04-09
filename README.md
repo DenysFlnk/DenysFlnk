@@ -27,7 +27,8 @@ education:
 fields_of_interests:
   [
     "Web Development",
-    "Backend Development"
+    "Backend Development",
+    "AI Agents Development"
   ]
   
 hobbies: ["Gaming", "Self-education", "Comedy"]
